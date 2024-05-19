@@ -5,8 +5,8 @@
       "artist": "sickick",
       "songName": "talking to the moon (bruno mars remix)",
       "files": {
-        "song": "./assets/media/songs/1/song.mp3",
-        "cover": "./assets/media/songs/1/img.jpg"
+        "song": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/1/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/1/img.jpg"
       }
     },
     {
@@ -14,8 +14,8 @@
       "artist": "bless you",
       "songName": "driving",
       "files": {
-        "song": "./assets/media/songs/2/song.mp3",
-        "cover": "./assets/media/songs/2/img.jpg"
+        "song": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/2/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/2/img.jpg"
       }
     },
     {
@@ -23,8 +23,8 @@
       "artist": "lil uzi vert",
       "songName": "demon high",
       "files": {
-        "song": "./assets/media/songs/3/song.mp3",
-        "cover": "./assets/media/songs/3/img.jpg"
+        "song": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/3/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/1/img.jpg"
       }
     },
     {
@@ -32,8 +32,8 @@
       "artist": "travis scott",
       "songName": "a man",
       "files": {
-        "song": "./assets/media/songs/4/song.mp3",
-        "cover": "./assets/media/songs/4/img.jpg"
+        "song": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/3/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/3/img.jpg"
       }
     },
     {
@@ -41,8 +41,8 @@
       "artist": "randall",
       "songName": "waharan",
       "files": {
-        "song": "./assets/media/songs/5/song.mp3",
-        "cover": "./assets/media/songs/5/img.jpg"
+        "song": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/4/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/4/img.jpg"
       }
     },
     {
@@ -50,8 +50,8 @@
       "artist": "tritonal",
       "songName": "diamonds (feat. rose darling)",
       "files": {
-        "song": "./assets/media/songs/6/song.mp3",
-        "cover": "./assets/media/songs/6/img.jpg"
+        "song": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/5/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/5/img.jpg"
       }
     },
     {
@@ -59,8 +59,8 @@
       "artist": "the weeknd",
       "songName": "blinding lights",
       "files": {
-        "song": "./assets/media/songs/7/song.mp3",
-        "cover": "./assets/media/songs/7/img.jpg"
+        "song": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/6/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/6/img.jpg"
       }
     },
     {
@@ -68,8 +68,8 @@
       "artist": "arizona zervas",
       "songName": "no i in team",
       "files": {
-        "song": "./assets/media/songs/8/song.mp3",
-        "cover": "./assets/media/songs/8/img.jpg"
+        "song": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/7/song.mp3",
+        "cover": "https://raw.githubusercontent.com/Project-CADev/podaniel-pod/main/src/assets/media/songs/7/img.jpg"
       }
     }
   ]
