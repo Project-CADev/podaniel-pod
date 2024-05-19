@@ -15,7 +15,7 @@
       "songName": "driving",
       "files": {
         "song": "./assets/media/songs/2/song.mp3",
-        "cover": "./assets/media/songs/2/img.jpg"
+        "cover": "blob:https://github.com/479584c2-14d1-4406-a17c-e4c056ed92cd"
       }
     },
     {
